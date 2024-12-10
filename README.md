@@ -22,5 +22,5 @@ Senior Software Engineer | Python Enthusiast | Problem Solver
 
 ---
 
-📧 **[Contact Me](mailto:raushan.kumarswe@gmail.com)**  
+📧 **[Contact Me](mailto:raushan.k.de@gmail.com)**  
 [LinkedIn]([https://www.linkedin.com/in/raushan-in/]) | [Portfolio](https://raushan.tech)
