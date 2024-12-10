@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Raushan Kumar 👋
 
-<!--
-**raushan-in/raushan-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | Python Enthusiast | Problem Solver  
+🌍 Currently in Trier, Germany | Open to relocation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+- **[IoT data Processing](https://github.com/raushan-in/iot-data-streaming)**: Streaming IoT device data to InfluxDb and real time time processing.
+- **[Data Process](https://github.com/raushan-in/data_process)**: A tool to process million of rows.
+
+---
+
+📧 **[Contact Me](mailto:raushan.kumarswe@gmail.com)**  
+[LinkedIn]([https://www.linkedin.com/in/raushan-in/]) | [Portfolio](https://raushan.tech)
