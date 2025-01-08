@@ -25,3 +25,6 @@ Senior Software Engineer | Python Enthusiast | Problem Solver
 
 📧 **[Contact Me](mailto:raushan.k.de@gmail.com)**  
 [LinkedIn](https://www.linkedin.com/in/raushan-in/) | [Portfolio](https://raushan.tech)
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
