@@ -20,6 +20,7 @@ Senior Software Engineer | Python Enthusiast | Problem Solver
 ### 🌟 Featured Projects
 - **[IoT data Processing](https://github.com/raushan-in/iot-data-streaming)**: Streaming IoT device data to InfluxDb and real time time processing.
 - **[Data Process](https://github.com/raushan-in/data_process)**: A tool to process million of rows.
+- **[DAPA](https://github.com/raushan-in/dapa)**: An AI tool to combat cyber fraud.
 
 ---
 
